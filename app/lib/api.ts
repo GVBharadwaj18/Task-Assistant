@@ -1,7 +1,7 @@
 // API Configuration and Helper Functions
 const API_BASE_URL =
   process.env.NEXT_PUBLIC_API_BASE_URL ||
-  "https://your-api-gateway-id.execute-api.us-east-1.amazonaws.com/prod";
+  "https://zfj1i8ugql.execute-api.us-east-1.amazonaws.com/prod";
 
 export interface Task {
   id: string;
